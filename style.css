@@ -1,0 +1,58 @@
+body{
+    background-color: #f3f3f3;
+}
+
+
+#header{
+    height: 100px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+span{
+    font-size: 24px;
+    margin: 25px;
+    color: #7f7f90;
+}
+#button-1{
+    height: 45px;
+    width: 180px;
+    border-radius: 35px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+}
+#center-1{
+  
+    margin-top: 6px;
+    font-size: 25px;
+}
+#h1-1{
+    font-size: 35px;
+    font-family: Comic Sans MS;
+    color: red;
+}
+#img-1{
+    height: 350px;
+}
+#matter-1{
+   display: inline;
+}
+#menu{
+    display: flex;
+    align-items: center;
+ justify-content: space-around;
+ text-align-last: center;
+}
+#p-1{
+    display: inline;
+    font-size: larger;
+}
+#h1-2{
+    display: inline;
+    color: red;
+}
+#h1--2{
+    display: inline;
+}
